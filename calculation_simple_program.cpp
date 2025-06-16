@@ -3,8 +3,6 @@
 #include <iostream>
 int main() {
 	std::cout << "			Welcome to the Calculator two number program simplify!" << std::endl;
-	std::cout << "			Note that the number front will be impact by behind number." << std::endl;
-	std::cout << "			All result will return a number with two decimal after dot" << std::endl;
 	while (1) {
 		std::cout << std::fixed << std::setprecision(2);
 		std::cout << "		Primarily Function : " << std::endl;
