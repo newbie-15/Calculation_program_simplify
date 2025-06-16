@@ -1,4 +1,5 @@
-//This project will serve calculator some mathematical basic.
+//This project will serve for some calculation mathematical basic.
+//Redistributed by LangTuHacking.
 #include <iomanip>
 #include <iostream>
 int main() {
