@@ -1,4 +1,4 @@
-//This project will serve calculator some easy mathematical purpose.
+//This project will serve calculator some mathematical basic.
 #include <iomanip>
 #include <iostream>
 int main() {
