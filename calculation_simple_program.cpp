@@ -49,11 +49,11 @@ int main() {
 			std::cout << divi;
 		}
 		else if (x == 5){
-			std::cout << "	Thanks you have use and see you again!";
+			std::cout << "	Thanks you a lot of for used it.";
 			break;
 		}
 		else {
-			std::cout << "	Maybe you have just choose function invalid in menu. This loop will be repeat." << std::endl;
+			std::cout << "	Maybe you have just choose function invalid in this menu. This loop will be repeat." << std::endl;
 		}
 		std::cout << std::endl;
 	}
