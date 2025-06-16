@@ -15,7 +15,7 @@ int main() {
 		int x;
 		std::cout << "	Enter your choice(1-5): ";
 		std::cin >> x;
-		//Implement some function you have choose
+		//Implement some function you have already choosen.
 		if (x == 1) {
 			std::cout << "	Enter any two Number: ";
 			double a, b;
